@@ -1,4 +1,3 @@
-
 #include <bits/stdc++.h>
 
 using namespace std;
@@ -90,3 +89,8 @@ int main() {
     solve();
     return 0;
 }
+
+
+// In a novel online game, the players fight the monsters and get the experience, as usual. To fight monsters players join together in raid teams. After the destruction of the monster, all the players of the team get the same amount of experience points. The special feature of the game is that a team cannot be split up and no one can leave a team. The only supported operation is to join two teams together.
+
+// Since there are already a lot of people playing the game, you are asked to maintain the experience points of the players.
